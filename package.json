@@ -2,7 +2,7 @@
   "name": "ss",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://rudrAprofessoR.github.io/ss/",
+  "homepage": "https://rudrAprofessoR.github.io/society/",
   "type": "module",
   "scripts": {
   "dev": "vite",
